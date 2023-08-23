@@ -22,3 +22,4 @@ $ ./cuckoo (-d dataset -m memory -k k)
 # Output format
 
 Our program will print the Throughput of insertion, AAE, ARE and Precision of these algorithms on the screen.
+# Sketch-br_cuckoosketch-2
